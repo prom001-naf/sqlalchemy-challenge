@@ -8,7 +8,7 @@ This project analyzes climate data from Hawaii using Python and SQLAlchemy and p
 The project includes the following files:
 
 - **`hawaii.sqlite`**: SQLite database containing climate data.
-- **`app.py`**: Flask application code implementing the API.
+- **`app.ipynb`**: Flask application code implementing the API.
 - **`climate_starter.ipynb`**: Jupyter Notebook for initial data exploration and query design.
 - **`hawaii_measurements.csv`**: Climate measurements dataset.
 - **`hawaii_stations.csv`**: Station information dataset.
